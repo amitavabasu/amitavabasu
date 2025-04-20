@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a seasoned **AI & Cloud Technology Leader** with 17+ years of experience driving innovation at the intersection of **machine learning**, **platform engineering**, and **enterprise architecture**. My work spans from building scalable cloud-native solutions to designing AI-driven platforms for predictive analytics, NLP, computer vision, and IoT applications.
+I'm a seasoned **AI & Cloud Technology Professional** with 17+ years of experience driving innovation at the intersection of **machine learning**, **platform engineering**, and **enterprise architecture**. My work spans from building scalable cloud-native solutions to designing AI-driven platforms for predictive analytics, NLP, computer vision, and IoT applications.
 
 ### What I Do
 - Lead and design **AI/ML systems** across NLP, deep learning, and MLOps.
